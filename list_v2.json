@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "albums": {},
+      "artistsInsertions": {},
+      "tracks": {},
+      "tracksStorages": [
+        {
+          "trackIds": [
+            {
+              "durationMs": 125127,
+              "id": 107242497
+            }
+          ],
+          "urlTemplate": "raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/tracks/%%"
+        }
+      ]
+    }
+  ]
+}
