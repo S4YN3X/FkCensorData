@@ -6,10 +6,10 @@
 <table width="100%">
 	<tbody>
 		<tr>
-			<td width="60">
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/10210263/2bb1ba5b.a.28315906-1/100x100" alt="Марафет">
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/10210263/2bb1ba5b.a.28315906-1/200x200" alt="Марафет">
 			</td>
-			<td width="430">
+			<td width="410">
 				<a href="https://music.yandex.ru/track/107242497">Марафет</a>
 			</td>
 			<td width="340">
