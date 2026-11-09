@@ -27,5 +27,16 @@
 				<a href="https://music.yandex.ru/artist/5613645">ЗоХа</a>
 			</td>
 		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20855185/ccd5b629.a.12503878-1/200x200" alt="Привычка">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/71981695">Привычка</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/8095900">Три дня дождя</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
