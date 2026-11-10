@@ -51,6 +51,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/5282321/f1b045c0.a.17439799-1/200x200" alt="Безумие (Remix; feat. Oxxxymiron)">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/25168291">Безумие (Remix; feat. Oxxxymiron)</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/3313381">ЛСП</a>, <a href="https://music.yandex.ru/artist/249991">Oxxxymiron</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20855185/ccd5b629.a.12503878-1/200x200" alt="Привычка">
 			</td>
 			<td width="410">
