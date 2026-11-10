@@ -18,6 +18,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16154377/ee93f85e.a.28800696-2/200x200" alt="Бизнес">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/120618314">Бизнес</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/20253273">Fupasmak</a>, <a href="https://music.yandex.ru/artist/20876440">anjapanda</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14707562/41809fd4.a.36387844-1/200x200" alt="ПАНКРОК">
 			</td>
 			<td width="410">
