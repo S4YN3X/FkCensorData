@@ -7,6 +7,17 @@
 	<tbody>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20031403/993f333d.a.25669529-2/200x200" alt="ШРАМЫ">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/113363679">ШРАМЫ</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4622993">BOOKER</a>, <a href="https://music.yandex.ru/artist/6047948">ЮГ 404</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14707562/41809fd4.a.36387844-1/200x200" alt="ПАНКРОК">
 			</td>
 			<td width="410">
