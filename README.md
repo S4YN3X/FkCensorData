@@ -73,6 +73,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/2480468/0bb341dd.a.11116016-1/200x200" alt="Не верю">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/67570047">Не верю</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/5450410">почтисчастье</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20855185/ccd5b629.a.12503878-1/200x200" alt="Привычка">
 			</td>
 			<td width="410">
