@@ -1,5 +1,6 @@
 # Список замен <a href="https://github.com/S4YN3X/FkCensor">FkCensor</a>
 - [Подменяемые треки](#подменяемые-треки)
+- [Подменяемые альбомы](#подменяемые-альбомы)
 
 ## Подменяемые треки
 
@@ -91,6 +92,24 @@
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/8095900">Три дня дождя</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Подменяемые альбомы
+
+<table width="100%">
+	<tbody>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/6958281.jpg" alt="Девочка с каре">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/album/6958281">Девочка с каре</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/6928538">МУККА</a>
 			</td>
 		</tr>
 	</tbody>

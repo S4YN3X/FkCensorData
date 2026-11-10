@@ -1,7 +1,30 @@
 {
   "sources": [
     {
-      "albums": {},
+      "albums": {
+        "6958281": {
+          "coverUri": "raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/6958281.jpg",
+          "volumes": [
+            [
+              {
+                "id": "50400502"
+              },
+              {
+                "id": "50400503"
+              },
+              {
+                "id": "50400504"
+              },
+              {
+                "id": "50400505"
+              },
+              {
+                "id": "50400506"
+              }
+            ]
+          ]
+        }
+      },
       "artistsInsertions": {},
       "tracks": {},
       "tracksStorages": [
