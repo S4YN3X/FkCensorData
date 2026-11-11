@@ -19,10 +19,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="вайфуу">
 			</td>
 			<td width="410">
-				вайфуу
+				<a href="https://music.yandex.ru/track/110945087">вайфуу</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -40,10 +39,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="Вирус">
 			</td>
 			<td width="410">
-				Вирус
+				<a href="https://music.yandex.ru/track/110945084">ГИДРОПОН</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -51,10 +49,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="ГИДРОПОН">
 			</td>
 			<td width="410">
-				ГИДРОПОН
+				<a href="https://music.yandex.ru/track/110945082">ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -62,21 +59,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ">
 			</td>
 			<td width="410">
-				ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ
-			</td>
-			<td width="340">
-				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
-			</td>
-		</tr>
-		<tr>
-			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="Забуду">
-			</td>
-			<td width="410">
-				Забуду
+				<a href="https://music.yandex.ru/track/110945092">Забуду</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -87,7 +72,7 @@
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="лиза, настя">
 			</td>
 			<td width="410">
-				лиза, настя
+				<a href="https://music.yandex.ru/album/24720439">лиза, настя</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -95,10 +80,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="люби меня, алина">
 			</td>
 			<td width="410">
-				люби меня, алина
+				<a href="https://music.yandex.ru/track/110945083">люби меня, алина</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -106,10 +90,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="мне похуй">
 			</td>
 			<td width="410">
-				мне похуй
+				<a href="https://music.yandex.ru/track/110945093">мне похуй</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -117,10 +100,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="МОЯ МАМА ПЬЁТ">
 			</td>
 			<td width="410">
-				МОЯ МАМА ПЬЁТ
+				<a href="https://music.yandex.ru/track/110945090">МОЯ МАМА ПЬЁТ</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -128,10 +110,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="Ты любишь травку">
 			</td>
 			<td width="410">
-				Ты любишь травку
+				<a href="https://music.yandex.ru/track/110945091">Ты любишь травку</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -139,10 +120,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="я схавал опиат">
 			</td>
 			<td width="410">
-				я схавал опиат
+				<a href="https://music.yandex.ru/track/110945088">я схавал опиат</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
@@ -150,10 +130,9 @@
 		</tr>
 		<tr>
 			<td width="84">
-				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="Папик">
 			</td>
 			<td width="410">
-				Папик
+				<a href="https://music.yandex.ru/track/110945085">Папик</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>, <a href="https://music.yandex.ru/artist/8176408">17 SEVENTEEN</a>
@@ -754,7 +733,7 @@
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="Еби меня, малышка">
 			</td>
 			<td width="410">
-				<a href="https://music.yandex.ru/album/2000000004">Еби меня, малышка</a>
+				<a href="https://music.yandex.ru/album/24720439">Еби меня, малышка</a>
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
