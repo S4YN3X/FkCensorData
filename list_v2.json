@@ -49,6 +49,9 @@
               },
               {
                 "id": "36623742"
+              },
+              {
+                "id": "600000001000000"
               }
             ]
           ]
@@ -77,7 +80,21 @@
         }
       },
       "artistsInsertions": {},
-      "tracks": {},
+      "tracks": {
+        "600000001000000": {
+          "artists": [
+            {
+              "id": 4865954,
+              "name": "GONE.Fludd"
+            },
+            {
+              "id": 5278742,
+              "name": "M00NCHILD"
+            }
+          ],
+          "title": "Уле=Еле"
+        }
+      },
       "tracksStorages": [
         {
           "trackIds": [
@@ -86,8 +103,16 @@
               "id": 25168291
             },
             {
+              "durationMs": 142054,
+              "id": 36623730
+            },
+            {
               "durationMs": 122926,
               "id": 36623732
+            },
+            {
+              "durationMs": 214883,
+              "id": 38479099
             },
             {
               "durationMs": 184869,
@@ -120,6 +145,10 @@
             {
               "durationMs": 135790,
               "id": 138590617
+            },
+            {
+              "durationMs": 123768,
+              "id": 600000001000000
             }
           ],
           "urlTemplate": "raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/tracks/%%"
