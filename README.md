@@ -30,6 +30,16 @@
 		</tr>
 		<tr>
 			<td width="84">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/110945089">Вирус</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000004.png" alt="Вирус">
 			</td>
 			<td width="410">
