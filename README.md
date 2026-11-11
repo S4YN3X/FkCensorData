@@ -1,4 +1,4 @@
-# Список замен <a href="https://github.com/S4YN3X/FkCensor">FkCensor</a>
+# Список замен <a href="https://github.com/S4YN3X/F_ckCensor">F_ckCensor</a>
 - [Подменяемые треки](#подменяемые-треки)
 - [Подменяемые альбомы](#подменяемые-альбомы)
 
@@ -26,6 +26,17 @@
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/20253273">Fupasmak</a>, <a href="https://music.yandex.ru/artist/20876440">anjapanda</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200" alt="Кровь И Пот">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/36623732">Кровь И Пот</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/5278742">M00NCHILD</a>
 			</td>
 		</tr>
 		<tr>
@@ -101,6 +112,17 @@
 
 <table width="100%">
 	<tbody>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200" alt="ПРИЛУНЕНИЕ">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/album/4613862">ПРИЛУНЕНИЕ</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/5278742">M00NCHILD</a>
+			</td>
+		</tr>
 		<tr>
 			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/6958281.jpg" alt="Девочка с каре">
