@@ -41,6 +41,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/6447985/f8bbc591.a.23210239-1/200x200" alt="ФЕЕРИЯ (prod. by wikee!)">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/106476809">ФЕЕРИЯ (prod. by wikee!)</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/5181458">May Wave$</a>, <a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14707562/41809fd4.a.36387844-1/200x200" alt="ПАНКРОК">
 			</td>
 			<td width="410">
