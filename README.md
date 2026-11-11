@@ -129,10 +129,32 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="92">
+			</td>
+			<td width="410">
+				92
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000001.png" alt="Gay Porn">
 			</td>
 			<td width="410">
 				Gay Porn
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Бесполезно">
+			</td>
+			<td width="410">
+				Бесполезно
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
@@ -166,6 +188,17 @@
 			</td>
 			<td width="410">
 				Всё решено
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Делать это трезвым">
+			</td>
+			<td width="410">
+				Делать это трезвым
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
@@ -261,6 +294,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="О брат">
+			</td>
+			<td width="410">
+				О брат
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000001.png" alt="Он постоянно">
 			</td>
 			<td width="410">
@@ -316,10 +360,32 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Подворотня - мой дом">
+			</td>
+			<td width="410">
+				Подворотня - мой дом
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000002.png" alt="Преждевременное семяизвержение">
 			</td>
 			<td width="410">
 				Преждевременное семяизвержение
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Решится само собой">
+			</td>
+			<td width="410">
+				Решится само собой
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
@@ -404,6 +470,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Тени">
+			</td>
+			<td width="410">
+				Тени
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000002.png" alt="Ты не такая">
 			</td>
 			<td width="410">
@@ -419,6 +496,17 @@
 			</td>
 			<td width="410">
 				Улица Сталеваров
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Ускользает">
+			</td>
+			<td width="410">
+				Ускользает
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
@@ -528,6 +616,17 @@
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/5278742">M00NCHILD</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000003.png" alt="Развлечение">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/album/2000000003">Развлечение</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/453589">Валентин Стрыкало</a>
 			</td>
 		</tr>
 		<tr>
