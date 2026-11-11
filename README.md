@@ -63,6 +63,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200" alt="Останови Меня">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/36623729">Останови Меня</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/5278742">M00NCHILD</a>, <a href="https://music.yandex.ru/artist/5167924">Superior.Cat.Proteus</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200" alt="Мой Дилер – Инопланетянин">
 			</td>
 			<td width="410">
