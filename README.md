@@ -30,6 +30,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16485602/f32ef9c3.a.24466136-3/200x200" alt="OVERHEAVEN">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/110261325">OVERHEAVEN</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200" alt="Кровь И Пот">
 			</td>
 			<td width="410">
