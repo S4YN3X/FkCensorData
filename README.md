@@ -273,6 +273,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/12554677/7418d704.a.6623689-2/200x200" alt="Другая волна">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/48591477">Другая волна</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/41191">Баста</a>, <a href="https://music.yandex.ru/artist/158454">GUF</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://raw.githubusercontent.com/S4YN3X/FkCensorData/refs/heads/main/covers/2000000001.png" alt="45 лет">
 			</td>
 			<td width="410">
