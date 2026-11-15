@@ -240,6 +240,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/17784780/ed39267b.a.41104665-1/200x200" alt="Патек">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/149155930">Патек</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/5766526">LIL KRYSTALLL</a>, <a href="https://music.yandex.ru/artist/5636188">LIL MORTY</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/6447985/f8bbc591.a.23210239-1/200x200" alt="ФЕЕРИЯ (prod. by wikee!)">
 			</td>
 			<td width="410">
