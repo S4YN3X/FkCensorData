@@ -735,6 +735,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/6386858/d6e56788.a.24740963-1/200x200" alt="Невменоз">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/111001123">Невменоз</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/17336543">две тысячи ярдов</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/8871869/9dc10d09.a.25627730-1/200x200" alt="стимуляторы">
 			</td>
 			<td width="410">
