@@ -141,6 +141,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/15682289/b32b5025.a.40985691-1/200x200" alt="COW">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/148909112">COW</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/12666124">FRIENDLY THUG 52 NGG</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16154377/ee93f85e.a.28800696-2/200x200" alt="Бизнес">
 			</td>
 			<td width="410">
