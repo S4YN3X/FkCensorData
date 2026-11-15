@@ -29,6 +29,7 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/17659240/6634021c.a.24720439-4/200x200" alt="Вирус">
 			</td>
 			<td width="410">
 				<a href="https://music.yandex.ru/track/110945089">Вирус</a>
@@ -224,6 +225,17 @@
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/5181458">May Wave$</a>, <a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16334817/f2d89870.a.40601590-1/200x200" alt="Витамин">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/41152828">Витамин</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/5733065">RASA</a>, <a href="https://music.yandex.ru/artist/2686299">kavabanga Depo kolibri</a>
 			</td>
 		</tr>
 		<tr>
