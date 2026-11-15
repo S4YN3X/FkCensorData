@@ -810,6 +810,17 @@
 				<a href="https://music.yandex.ru/artist/8095900">Три дня дождя</a>
 			</td>
 		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20322863/f3bc382a.a.6985251-7/200x200" alt="С особым настроением">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/50534118">С особым настроением</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/6766971">УННВ</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
