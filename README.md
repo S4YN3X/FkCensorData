@@ -229,6 +229,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14854709/804b5677.a.39076993-2/200x200" alt="Uno dos tres">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/145467517">Uno dos tres</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/24996273">KURT GUETTO</a>, <a href="https://music.yandex.ru/artist/24394049">TRAKOV</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/6447985/f8bbc591.a.23210239-1/200x200" alt="ФЕЕРИЯ (prod. by wikee!)">
 			</td>
 			<td width="410">
