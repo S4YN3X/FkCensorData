@@ -240,6 +240,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/17659240/aaf385ea.a.11045729-1/200x200" alt="Ананасовый сироп">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/67304889">Ананасовый сироп</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/2855649">Natan</a>, <a href="https://music.yandex.ru/artist/5780809">Ганвест</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16334817/f2d89870.a.40601590-1/200x200" alt="Витамин">
 			</td>
 			<td width="410">
