@@ -174,6 +174,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/18172800/3f3dca90.a.4936681-1/200x200" alt="Wacky-Backy">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/38559822">Wacky-Backy</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/4664306">Lottery Billz</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/21498071/442b6cf5.a.4613862-2/200x200" alt="Кровь И Пот">
 			</td>
 			<td width="410">
