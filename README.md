@@ -196,6 +196,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20855185/a32e7175.a.10888695-1/200x200" alt="МОГУ ПНУТЬ ЭТО (feat. i61)">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/66668856">МОГУ ПНУТЬ ЭТО (feat. i61)</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/4439048">i61</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/18172800/3f3dca90.a.4936681-1/200x200" alt="Wacky-Backy">
 			</td>
 			<td width="410">
