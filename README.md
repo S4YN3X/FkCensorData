@@ -229,6 +229,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/19999910/ef698f7d.a.4912205-1/200x200" alt="Дно">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/38419043">Дно</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/5214938">IROH</a>, <a href="https://music.yandex.ru/artist/5167924">Superior.Cat.Proteus</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/18172800/3f3dca90.a.4936681-1/200x200" alt="Wacky-Backy">
 			</td>
 			<td width="410">
