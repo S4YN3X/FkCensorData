@@ -196,6 +196,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16469857/d54c3e51.a.9245216-3/200x200" alt="Реквием Играет Тихо">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/60051504">Реквием Играет Тихо</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16469857/d54c3e51.a.9245216-3/200x200" alt="Так Вот!">
 			</td>
 			<td width="410">
