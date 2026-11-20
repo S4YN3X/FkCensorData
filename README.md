@@ -185,6 +185,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/16469857/d54c3e51.a.9245216-3/200x200" alt="Дело">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/60051507">Дело</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14854709/9353cd3e.a.5265133-3/200x200" alt="КАК ДЕЛИШКИ">
 			</td>
 			<td width="410">
