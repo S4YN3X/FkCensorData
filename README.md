@@ -284,6 +284,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20855185/a32e7175.a.10888695-1/200x200" alt="АЛМАЗ СОЗНАНИЯ (feat. Thomas Mraz)">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/66668860">АЛМАЗ СОЗНАНИЯ (feat. Thomas Mraz)</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>, <a href="https://music.yandex.ru/artist/952536">Thomas Mraz</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14854709/804b5677.a.39076993-2/200x200" alt="Uno dos tres">
 			</td>
 			<td width="410">
