@@ -196,6 +196,17 @@
 		</tr>
 		<tr>
 			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20622967/3d1545c6.a.5795190-1/200x200" alt="ДРИПСЭТ (PROD. BY LEEZY)">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/track/43528294">ДРИПСЭТ (PROD. BY LEEZY)</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
 				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/14854709/9353cd3e.a.5265133-3/200x200" alt="КАК ДЕЛИШКИ">
 			</td>
 			<td width="410">
@@ -947,6 +958,17 @@
 			</td>
 			<td width="340">
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="84">
+				<img width="64px" height="64px" src="https://avatars.yandex.net/get-music-content/20622967/3d1545c6.a.5795190-1/200x200" alt="СУПЕРЧУИТС">
+			</td>
+			<td width="410">
+				<a href="https://music.yandex.ru/album/5795190">СУПЕРЧУИТС</a>
+			</td>
+			<td width="340">
+				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
 			</td>
 		</tr>
 		<tr>
